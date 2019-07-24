@@ -1,0 +1,16 @@
+#random-name {
+  margin: 2rem 0; 
+}
+
+img {
+  margin: 1rem 0;
+}
+
+body {
+    background-image: url("http://i68.tinypic.com/vywmd1.jpg");
+}
+
+h1, form, div {
+  color: Green;
+  text-align: left;
+}
